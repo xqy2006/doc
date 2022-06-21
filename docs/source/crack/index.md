@@ -3,7 +3,7 @@
 
 
 
-<iframe height='420' weight='525' src='https://xqy2006.github.io/dist-pages/license.html?dayRemains=15&index=0&hasActivated=true&email=This_is_my_Email&license=This_is_my_License_Code&lang=zh-Hans&needLicense=false&type=1&os=win'></iframe>
+<iframe height='420' src='https://xqy2006.github.io/dist-pages/license.html?dayRemains=15&index=0&hasActivated=true&email=This_is_my_Email&license=This_is_my_License_Code&lang=zh-Hans&needLicense=false&type=1&os=win'></iframe>
 
 [toc] 
 
@@ -115,5 +115,5 @@ console.log("+"+key);
 
 #### 7. 将keygen生成的注册码输入到离线注册窗口并注册
 
-<iframe height='420' weight='525' src='https://xqy2006.github.io/dist-pages/license.html?dayRemains=15&index=0&hasActivated=true&email=This_is_my_Email&license=This_is_my_License_Code&lang=zh-Hans&needLicense=false&type=1&os=win'></iframe>
+<iframe height='420' src='https://xqy2006.github.io/dist-pages/license.html?dayRemains=15&index=0&hasActivated=true&email=This_is_my_Email&license=This_is_my_License_Code&lang=zh-Hans&needLicense=false&type=1&os=win'></iframe>
 
