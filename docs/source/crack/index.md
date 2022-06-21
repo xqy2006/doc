@@ -1,12 +1,9 @@
 # crack
 ## Typora破解(1.3.6)
-
-
-
-<iframe height='420' src='https://xqy2006.github.io/dist-pages/license.html?dayRemains=15&index=0&hasActivated=true&email=This_is_my_Email&license=This_is_my_License_Code&lang=zh-Hans&needLicense=false&type=1&os=win'></iframe>
-
-[toc] 
-
+<iframe src="https://xqy2006.github.io/dist-pages/license.html?dayRemains=15&amp;index=0&amp;hasActivated=true&amp;email=This_is_my_Email&amp;license=This_is_my_License_Code&amp;lang=zh-Hans&amp;needLicense=false&amp;type=1&amp;os=win" style="
+    width: 525px;
+    height: 420px;
+"></iframe>
 #### 1. 抓取解密后js：
 
 ```powershell
@@ -114,6 +111,7 @@ console.log("+"+key);
 ```
 
 #### 7. 将keygen生成的注册码输入到离线注册窗口并注册
-
-<iframe height='420' src='https://xqy2006.github.io/dist-pages/license.html?dayRemains=15&index=0&hasActivated=true&email=This_is_my_Email&license=This_is_my_License_Code&lang=zh-Hans&needLicense=false&type=1&os=win'></iframe>
-
+<iframe src="https://xqy2006.github.io/dist-pages/license.html?dayRemains=15&amp;index=0&amp;hasActivated=true&amp;email=This_is_my_Email&amp;license=This_is_my_License_Code&amp;lang=zh-Hans&amp;needLicense=false&amp;type=1&amp;os=win" style="
+    width: 525px;
+    height: 420px;
+"></iframe>
